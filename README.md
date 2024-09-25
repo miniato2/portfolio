@@ -7,9 +7,11 @@
 > [프로젝트 상세링크](https://github.com/miniato2/J4JG)  
 > 개발기간 : 2024.07 ~ 2024.08  
 > > 담당역할
-> > * ㅇ 
-> > * ㅇ 
-> > 
+> > * 멘토링 서비스 API 개발
+> > * 원티드 API 와 Logback, LogStash을 통한 채용정보 수집
+> > * ElasticSearch를 통한 검색 API
+> > * 스크랩 API 개발
+> > * 멘토링 매칭 과 알림 서비스 연동
 
 
 ## KETCHUP
@@ -18,6 +20,5 @@
 > [프로젝트 상세링크](https://github.com/miniato2/Ketchup_Back)  
 > 기간 : 2024.04 ~ 2024.06
 > > 담당역할
-> > * ㅇ 
-> > * ㅇ 
-> > 
+> > * 전자결재 API 개발
+> > * react를 활용한 전자결재 화면 구현
